@@ -665,6 +665,10 @@ video {
   display: flex;
 }
 
+.inline-flex {
+  display: inline-flex;
+}
+
 .h-52 {
   height: 13rem;
 }
