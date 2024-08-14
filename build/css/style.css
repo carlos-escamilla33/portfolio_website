@@ -570,6 +570,10 @@ video {
   top: -100%;
 }
 
+.top-\[100\%\] {
+  top: 100%;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -766,6 +770,10 @@ video {
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
+}
+
+.duration-500 {
+  transition-duration: 500ms;
 }
 
 .hover\:text-gray-500:hover {
